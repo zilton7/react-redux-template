@@ -6,7 +6,7 @@ Description goes here
 
 ## Built With
 
-- JavaScript
+- React
 
 ## Live Demo
 
